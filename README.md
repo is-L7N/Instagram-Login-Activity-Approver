@@ -15,7 +15,7 @@ The script sends a request to Instagram's private API to fetch recent login acti
 
 This is particularly useful if you're getting login notifications like the one below and want to approve them programmatically:
 
-![Login Activity](./file-210154_temp.jpg)
+![Login Activity](./-210154_temp.jpg)
 
 ## Usage
 
